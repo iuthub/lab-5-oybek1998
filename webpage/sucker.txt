@@ -1,0 +1,2 @@
+Oybek;ICE;80159081;(visa)
+Dilmurod;ICE;80159081;(mastercard)
